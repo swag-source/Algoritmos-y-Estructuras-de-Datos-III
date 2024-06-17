@@ -1,4 +1,4 @@
-/snap/clion/274/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/274/bin/ninja/linux/x64/ninja -G Ninja -S "/home/str8cho/Desktop/Algoritmos-y-Estructuras-de-Datos-III/entregable 5" -B "/home/str8cho/Desktop/Algoritmos-y-Estructuras-de-Datos-III/entregable 5/cmake-build-debug"
+/snap/clion/275/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/275/bin/ninja/linux/x64/ninja -G Ninja -S "/home/str8cho/Desktop/Algoritmos-y-Estructuras-de-Datos-III/entregable 5" -B "/home/str8cho/Desktop/Algoritmos-y-Estructuras-de-Datos-III/entregable 5/cmake-build-debug"
 -- The C compiler identification is GNU 11.4.0
 -- The CXX compiler identification is GNU 11.4.0
 -- Detecting C compiler ABI info
@@ -11,7 +11,7 @@
 -- Check for working CXX compiler: /usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (1.8s)
+-- Configuring done (2.0s)
 CMake Error at CMakeLists.txt:6 (add_executable):
   Cannot find source file:
 

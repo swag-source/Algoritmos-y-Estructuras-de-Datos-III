@@ -1,0 +1,3 @@
+/home/str8cho/Desktop/Algoritmos-y-Estructuras-de-Datos-III/Entregable 10/cmake-build-debug/CMakeFiles/Entregable_10.dir
+/home/str8cho/Desktop/Algoritmos-y-Estructuras-de-Datos-III/Entregable 10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/str8cho/Desktop/Algoritmos-y-Estructuras-de-Datos-III/Entregable 10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
